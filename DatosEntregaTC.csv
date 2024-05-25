@@ -1,4 +1,4 @@
-tipoDocumento,numeroDocumento,cliente,Plaza,TipoModelo,Nodo,IngresoEnviado,Score,numeroTarejtas,inhabilitado,PeorVencidoSCE,NumOpVencidasXAnoSCE,VENCIDO,cuotaEstimada,ingresoEstimado,consumoActual,rangoEdad,usoBenchmarck,tarjetasBenchmarck,CupoBenchmarck,Cupo,Tipo,tipoMarca,Marca,MarcaTarjetaVigente,CupoTarjetaVigente
+tipoDocumento,numeroDocumento,cliente,Plaza,TipoModelo,Nodo,IngresoEnviado,Score,numeroTarjetas,inhabilitado,PeorVencidoSCE,NumOpVencidasXAnoSCE,VENCIDO,cuotaEstimada,ingresoEstimado,consumoActual,rangoEdad,usoBenchmarck,tarjetasBenchmarck,CupoBenchmarck,Cupo,Tipo,tipoMarca,Marca,MarcaTarjetaVigente,CupoTarjetaVigente
 C,0100828888,ZAVALA ORELLANA MARTHA PIEDAD,SIERRA,ORIGINACION,S1,,997,3,NO,1-2 meses,0,0,4854,63,6000,SI,[60-63],NO,,0,4950,,0,,,0
 C,0101196160,GUZMAN AVILA BRAULIO ALEJANDRO,SIERRA,COMPORTAMIENTO,N3,,727,3,NO,0 meses,0,0,7563,46,6000,SI,[54-59],SI,/PACIFICO,15000,0,,0,,VISA,21142,07
 C,0101465177,YUNGASACA ARMIJOS LUZ MARINA,SIERRA,ORIGINACION,S1,,949,2,NO,0 meses,0,0,1493,85,4750,SI,[54-59],NO,,0,10500,Signature,4,VISA,,0
